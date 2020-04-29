@@ -13,6 +13,7 @@
     "@nuxt/utils": "2.12.1",
     "consola": "^2.11.3",
     "esm": "^3.2.25",
+    "lodash": "^4.17.15",
     "std-env": "^2.2.1"
   },
   "publishConfig": {
